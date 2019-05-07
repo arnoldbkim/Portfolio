@@ -19,7 +19,7 @@ class Project extends Component {
             React Project Portfolio
          </CardText>
             <CardActions border>
-                <Button colored>Github</Button>
+                <Button colored><a href="https://github.com/arnoldbkim/Portfolio">Github</a></Button>
                 
             </CardActions>
                 <CardMenu style={{color: '#fff'}}>
